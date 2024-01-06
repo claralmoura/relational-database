@@ -1,6 +1,6 @@
--- Craindo a tabela Eestado!
+-- Criando a tabela Eestado!
 
-create table estado (
+create table estados (
     id INT UNSIGNED NOT NULL AUTO_INCREMENT,
     nome VARCHAR(45) NOT NULL,
     sigla VARCHAR(2) NOT NULL,
