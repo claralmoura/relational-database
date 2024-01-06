@@ -1,5 +1,5 @@
 update estados
-set nome = 'Maranhao'
+set nome = 'Maranhão'
 where sigla = 'MA'
 
 update estados
